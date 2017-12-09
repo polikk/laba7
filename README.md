@@ -4,3 +4,4 @@
  
 
 [![Build Status](https://travis-ci.org/polikk/laba7.svg?branch=master)](https://travis-ci.org/polikk/laba7)
+[![codecov](https://codecov.io/gh/polikk/laba7/branch/master/graph/badge.svg)](https://codecov.io/gh/polikk/laba7)
